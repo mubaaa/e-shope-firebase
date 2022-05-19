@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1034355136266",
+    "project_id": "e-commerce-6c7c0",
+    "storage_bucket": "e-commerce-6c7c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034355136266:android:313ebe534b67245c838cf3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034355136266-g9ij75othcfavpg898iej52s2ae7hoot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARubhrrnswsqIErdxiJSInKUqZ0K1HBZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034355136266-g9ij75othcfavpg898iej52s2ae7hoot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034355136266:android:c2a93530db19fa67838cf3",
+        "android_client_info": {
+          "package_name": "com.example.nikke_e_shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034355136266-g9ij75othcfavpg898iej52s2ae7hoot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARubhrrnswsqIErdxiJSInKUqZ0K1HBZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034355136266-g9ij75othcfavpg898iej52s2ae7hoot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
